@@ -111,4 +111,4 @@ Email CTR improved by 36%, activation in 14 days rose by 21%, and model adopted 
 
 ---
 
-### 🔗 [Visit My LinkedIn]((https://www.linkedin.com/in/lanre-osahon-uzamere/details/projects/))  
+### 🔗 [Visit My LinkedIn](https://www.linkedin.com/in/lanre-osahon-uzamere/details/projects/)
